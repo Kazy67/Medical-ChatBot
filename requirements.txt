@@ -1,0 +1,20 @@
+# The LLM engine
+llama-cpp-python
+
+# The "Brain" for searching
+sentence-transformers
+
+# NEW Home for text splitting
+langchain-text-splitters
+
+# Database and its LangChain bridge
+chromadb
+langchain-chroma
+
+# General framework & community tools (Loaders are here)
+langchain
+langchain-community
+
+# Web and PDF support
+flask
+pypdf
