@@ -18,3 +18,7 @@ langchain-community
 # Web and PDF support
 flask
 pypdf
+
+python-dotenv # For environment variable management
+
+-e . # Local package installation

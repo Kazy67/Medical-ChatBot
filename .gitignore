@@ -9,3 +9,7 @@ db/
 # Python environment
 __pycache__/
 .ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
